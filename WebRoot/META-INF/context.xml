@@ -1,0 +1,4 @@
+<Context docBase="crm" path="/crm" privileged="true" reloadable="false">
+	<Manager className="org.apache.catalina.session.PersistentManager" saveOnRestart="false"/>
+	<ResourceLink global="jdbc/crm" name="jdbc/crm" type="javax.sql.DataSource"/>
+</Context>

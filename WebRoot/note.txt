@@ -1,0 +1,4 @@
+新增加功能
+
+1、新增考勤设置表。APP_SYSTEM_KQSZ
+2、新增年度查询数据库类别。SHOW_YEAR_COUNT和YEAR_COUNT
